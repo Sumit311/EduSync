@@ -40,15 +40,22 @@ explore and share knowledge through courses.
 
 ## 📂 Project Structure
 
-    src/
-     ├── components/      # UI components
-     ├── pages/           # Page-level components
-     ├── routes/          # OpenRoute & PrivateRoute setup
-     ├── services/        # API & auth operations
-     ├── slices/          # Redux slices (auth, profile)
-     └── App.js           # Main entry point
-
-------------------------------------------------------------------------
+   ```
+src/
+ ┣ assets/             # Images, icons, and static assets
+ ┣ components/         # Reusable UI components
+ ┣ data/               # Static demo data & links
+ ┣ hooks/              # Custom React hooks
+ ┣ pages/              # Page-level components (Login, Signup, Profile, etc.)
+ ┣ reducer/            # Reducers for state management
+ ┣ services/           # API service handlers (mocked/demo version)
+ ┣ slices/             # Redux slices
+ ┣ utils/              # Helper functions
+ ┣ App.js              # Root application component
+ ┣ index.js            # React entry point
+ ┣ App.css             # Global styles
+ ┣ index.css           # Tailwind base styles
+```
 
 ## 🚀 Getting Started
 
