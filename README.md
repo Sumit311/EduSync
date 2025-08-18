@@ -90,31 +90,31 @@ Password: demo123
 
 <img width="960" height="473" alt="{43336C39-C610-4D0C-9E98-744D5193CFC2}" src="https://github.com/user-attachments/assets/23991dea-cc37-4cf1-9f02-0a9a94520773" />
 
+<br><br>
 <img width="1920" height="1080" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/e33d8c29-8dd8-4d21-8852-8595b6d4a35f" />
+<br><br>
 
 <img width="1920" height="1080" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/ecbad881-3f7b-4c12-9036-77f79582b1fa" />
 
+<br><br>
 <img width="1920" height="1080" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/e2698df4-a186-40fe-b528-598701a00a6f" />
+<br><br>
 
 <img width="1920" height="1080" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/fe42c8f4-3978-4eff-bcde-b85f69e494fe" />
 
+<br><br>
+## Student Section
+
 <img width="1920" height="973" alt="Screenshot 2025-08-13 210432" src="https://github.com/user-attachments/assets/23edb848-294f-4b52-80a2-8e81833496bb" />
 
+<br><br>
 <img width="1920" height="980" alt="Screenshot 2025-08-13 210447" src="https://github.com/user-attachments/assets/d409c4e4-934d-4fcc-8fef-8cd21386c7e6" />
 
+<br><br>
 <img width="1920" height="985" alt="Screenshot 2025-08-13 210501" src="https://github.com/user-attachments/assets/eb37ac6d-43f1-4ef8-9fd6-21b078e917f4" />
 
-# Instructor Section
+## Instructor Section
+
 <img width="1920" height="972" alt="Screenshot 2025-08-13 213311" src="https://github.com/user-attachments/assets/3411988d-10d6-4b7f-a781-7b04a54277b8" />
 
-------------------------------------------------------------------------
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
-------------------------------------------------------------------------
-
-## 👨‍💻 Author
-
--   **Your Name** -- [GitHub](https://github.com/your-username)
+<br><br>
